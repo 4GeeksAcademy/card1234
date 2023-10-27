@@ -1,8 +1,5 @@
-body {
-  background-color: green;
-}
 #card {
-  background-color: white;
+  background-color: green;
   border: 1px dashed black;
   width: 120px;
   height: 180px;
